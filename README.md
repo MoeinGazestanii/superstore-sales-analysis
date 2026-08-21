@@ -45,10 +45,3 @@ Product, customer, state, shipping, and profitability analysis.
 ### Time Analysis
 Sales trends by year, month, and quarter.
 
-## Project Structure
-
-```text
-superstore-sales-analysis/
-├── sql/
-├── powerbi/
-└── README.md
