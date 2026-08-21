@@ -39,11 +39,17 @@ The Power BI report contains three main sections:
 ### Overview
 High-level KPIs and sales performance.
 
+![Overview Dashboard](screenshots/overview.png)
+
 ### Detailed Analysis
 Product, customer, state, shipping, and profitability analysis.
 
+![Detailed Analysis Dashboard](screenshots/detailed-analysis.png)
+
 ### Time Analysis
 Sales trends by year, month, and quarter.
+
+![Time Analysis Dashboard](screenshots/time-analysis.png)
 
 
 ## Key Business Questions
