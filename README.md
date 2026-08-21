@@ -59,3 +59,16 @@ Sales trends by year, month, and quarter.
 - Which customers generate the most sales?
 - Which products have the highest sales?
 - How do sales change over time?
+
+
+## Project Outcome
+
+This project demonstrates an end-to-end data analytics workflow, from data ingestion and transformation to SQL-based analysis and interactive Power BI dashboard development.
+
+It showcases the ability to:
+
+- Build a data pipeline using Azure Data Factory
+- Store and transform data in Azure SQL Database
+- Perform data quality checks and business analysis using SQL
+- Create interactive dashboards and visualizations in Power BI
+- Translate business questions into data-driven insights
