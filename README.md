@@ -45,3 +45,11 @@ Product, customer, state, shipping, and profitability analysis.
 ### Time Analysis
 Sales trends by year, month, and quarter.
 
+
+## Key Business Questions
+
+- Which region generates the highest sales?
+- Which category performs best?
+- Which customers generate the most sales?
+- Which products have the highest sales?
+- How do sales change over time?
